@@ -1,6 +1,6 @@
 👋 Soy Tania Ruiz Garay, Desarrolladora de aplicaciones Front-End y Profesora en Ciencias Naturales/Biología con sólida experiencia en trabajo colaborativo, destacadas habilidades organizativas y una pasión por crear aplicaciones web visualmente atractivas, dinámicas, accesibles y funcionales. Comprometida con ofrecer soluciones tecnológicas innovadoras que optimicen la experiencia del usuario y contribuyan al logro de objetivos estratégicos, radicada en Chillán-Chile.
 
-🎓Soy Desarrolladora de aplicaciones Fron-end Trainee, actualmente estudiando en Bootcamp de la Academia Desafío Latam, y soy Profesora en Ciencias Naturales y Biología, egresada de la Universidad del Bío-Bío.
+🎓Soy Desarrolladora de aplicaciones Fron-end Trainee, actualmente estudiando en Bootcamp de la Academia Desafío Latam, y Profesora en Ciencias Naturales y Biología, egresada de la Universidad del Bío-Bío.
 
 ## Conocimientos y habilidades
 Lenguajes de programación y tecnologías: HTML, CSS, Sass, Bootstrap, JavaScript, Vue (complemento vuex, vue-router).
