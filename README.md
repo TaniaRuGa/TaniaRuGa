@@ -17,12 +17,10 @@ Herramientas de desarrollo: Visual Studio Code.
 
 💼 
 
-Con competencias de organización, sólida experiencia en trabajo colaborativo, motivada por promover la creación de páginas web que sean visualmente atractivas, dinámicas, accesibles y funcionales para contribuir con soluciones tecnológicas dirigidas a los usuarios. 
+🌱Con competencias de organización, sólida experiencia en trabajo colaborativo, motivada por promover la creación de páginas web que sean visualmente atractivas, dinámicas, accesibles y funcionales para contribuir con soluciones tecnológicas dirigidas a los usuarios. 
 
 Puedes contactarme a través de: 
-<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" /> 
-[Correo electrónico](tania.parg@gmail.com)
 
-[Linkedin] (https://www.linkedin.com/in/tania-rg/)
+[Linkedin](https://www.linkedin.com/in/tania-rg/)
 
 
