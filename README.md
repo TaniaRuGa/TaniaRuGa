@@ -2,7 +2,7 @@
 
 🎓Soy Desarrolladora de aplicaciones Fron-end Trainee, actualmente estudiando en la Academia Desafío Latam, y soy Profesora en Ciencias Naturales y Biología, egresada de la Universidad del Bío-Bío.
 
-Mis conocimientos y habilidades incluyen:
+## Conocimientos y habilidades
 Lenguajes de programación y tecnologías: HTML, CSS, Sass, Bootstrap, JavaScript, Vue (complemento vuex, vue-router).
 
 Control de versiones y colaboración: Git, GitHub.
