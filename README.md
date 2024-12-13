@@ -15,7 +15,8 @@ Optimización y performance: Mejora del rendimiento web mediante técnicas de op
 
 Herramientas de desarrollo: Visual Studio Code.
 
-🌱Aunque no tengo mucha experiencia directa en desarrollo front-end, he adquirido sólidos conocimientos en HTML, CSS, Sass, Bootstrap, JavaScript y frameworks como Vue a través de proyectos personales.Mi experiencia previa como profesora y especialista en neurociencia educativa me ha permitido desarrollar habilidades de comunicación, resolución de problemas y trabajo en equipo. Estas son cruciales para colaborar efectivamente en proyectos de desarrollo y para entender las necesidades del usuario final. Estoy entusiasmada por la oportunidad de contribuir a proyectos innovadores, aportando una perspectiva única basada en mi experiencia previa en educación y tecnología. Mi enfoque está en mejora continuamente, asegurarme de que las necesidades del cliente sean satisfechas y trabajar con equipos colaborativos para alcanzar metas comunes.
+🌱Aunque no tengo mucha experiencia directa en desarrollo front-end, he adquirido sólidos conocimientos en HTML, CSS, Sass, Bootstrap, JavaScript y frameworks como Vue a través de proyectos personales. 
+Mi experiencia previa como profesora y especialista en neurociencia educativa me ha permitido desarrollar habilidades de comunicación, resolución de problemas y trabajo en equipo. Estas son cruciales para colaborar efectivamente en proyectos de desarrollo y para entender las necesidades del usuario final. Estoy entusiasmada por la oportunidad de contribuir a proyectos innovadores, aportando una perspectiva única basada en mi experiencia previa en educación y tecnología. Mi enfoque está en mejora continuamente, asegurarme de que las necesidades del cliente sean satisfechas y trabajar con equipos colaborativos para alcanzar metas comunes.
 
 Puedes contactarme a través de: 
 
