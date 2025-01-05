@@ -17,7 +17,7 @@
 
 Puedes contactarme a través de: 
 
-- [Linkedin](https://www.linkedin.com/in/tania-rg/)
-- [Correo electrónico](tania.parg@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/tania-rg/
+- Correo electrónico: tania.parg@gmail.com
 
 
