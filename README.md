@@ -5,7 +5,7 @@
 ## Conocimientos y habilidades
 - Control de versiones y colaboración: Git, GitHub.
 
-- Colaboración en equipo: uso de herramientas organizativas como Trello, Slack y Discord.
+- Colaboración en equipo: uso de herramientas organizativas como Trello, Canva, Slack y Discord.
 
 - Responsive Design: Creación de diseños adaptables y accesibles para diferentes dispositivos utilizando Flexbox y Grid.
 
